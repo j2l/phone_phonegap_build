@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.mycompany.phone" version="1.">
-     <name>phonetest</name>     <description>desc</description>
+<?xml version="1.0" encoding="UTF-8"?><widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.mycompany.phone2" version="1.">
+     <name>phone2</name>     <description>desc</description>
      <author href="" email="">A WMS User</author>
      	<icon src="resources/images/logos/IOS/wavemaker_57x57.png" width="57" height="57"/>
 	<icon gap:platform="ios" src="resources/images/logos/IOS/wavemaker_72x72.png" width="72" height="72"/>
@@ -26,7 +26,7 @@
 	<icon src="resources/images/logos/Other/wavemaker_64x64.png" width="64" height="64"/>
 
      <preference name="orientation" value="default"/>
-     <preference name="fullscreen" value="true"/>
+     <preference name="fullscreen" value="false"/>
      <preference name="prerendered-icon" value="false"/>
      <preference name="ios-statusbarstyle" value="default"/>
      <feature name="http://api.phonegap.com/1.0/camera"/>

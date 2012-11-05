@@ -1,8 +1,8 @@
 dojo.declare("Main", wm.Page, {
+	"preferredDevice": "phone",
 	start: function() {
 		
 	},
-	"preferredDevice": "phone",
 
 	_end: 0
 });

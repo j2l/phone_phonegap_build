@@ -1,13 +1,13 @@
 {
 	"xhrpaths": [
-		"http://192.168.168.1:8094/phonetest", 
-		"http://192.168.168.1:8094/phone", 
-		"http://phone.cloudfoundry.com"
+		"http://192.168.168.1:8094/phone2", 
+		"http://192.168.168.1:8094/phone1", 
+		"http://phone1.cloudfoundry.com"
 	], 
-	"appName": "phonetest", 
-	"appId": "com.mycompany.phone", 
+	"appName": "phone2", 
+	"appId": "com.mycompany.phone2", 
 	"appVersion": "1.", 
-	"xhrPath": "http://192.168.168.1:8094/phone", 
+	"xhrPath": "http://192.168.168.1:8094/phone1", 
 	"iosIconListVar": [
 		{
 			"imageId": 1, 
@@ -203,7 +203,7 @@
 	"appAuthorEmail": "", 
 	"appAuthorName": "A WMS User", 
 	"appOrientation": "default", 
-	"appFullscreen": true, 
+	"appFullscreen": false, 
 	"iosPrerenderedIcon": false, 
 	"iosStatusBarStyle": "default", 
 	"xhrServiceProxies": false

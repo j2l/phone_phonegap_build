@@ -35,7 +35,7 @@ wm.relativeLibPath = "lib/";
 wm.images = wm.libPath + "wm/base/widget/themes/default/images/";
 wm.logging = (location.search.indexOf("logging") >= 0);
 wm.checkGoogleFrame = false;
-wm.xhrPath = 'http://192.168.168.1:8094/phonetest/';
+wm.xhrPath = 'http://192.168.168.1:8094/phone2/';
 wm.useProxyJsonServices = false;
 wm.isPhonegap = true;
 /*
